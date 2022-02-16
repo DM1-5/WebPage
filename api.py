@@ -1,8 +1,13 @@
+from http.client import ResponseNotReady
 import requests
 import os
 
 # Peticion http a la api de randomfox
 response = requests.get("https://randomfox.ca/floof")
+
+status = response.status_code
+
+print(status)
 
 # Se imprime el json
 print(response.json())
