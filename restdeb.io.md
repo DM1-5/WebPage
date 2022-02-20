@@ -3,4 +3,6 @@
 
 [Exel_data](https://restdb.io/docs/import-export-of-excel-data)
 
-[Chear_sheet](https://restdb.io/media/restdb-cheat-sheet.pdf)
+[Cheat_sheet](https://restdb.io/media/restdb-cheat-sheet.pdf)
+
+[API](API.md)
